@@ -1,2 +1,1 @@
-# COVID-related-tweets
-Gather COVID19 data from Twitter
+This repo includes python script to first gather tweets from specific users in Twitter. Then gather comments and likes of each tweet if it includes COVID19 keywords. There is also a python script to download profile photo of each user commenting or liking the tweet.
